@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.shion.dev/api?username=DeepBreath222&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=DeepBreath222&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=DeepBreath222&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=DeepBreath222&theme=blueberry&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DeepBreath222&layout=compact&exclude_repo=portfoliowebsite.github.io&theme=blueberry)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeepBreath222&theme=radical&no-frame=false&no-bg=true&margin-w=4)
