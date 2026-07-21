@@ -103,7 +103,7 @@ A production-inspired **Banking Data Platform** implementing **Medallion Archite
 **Tech Stack:** PySpark • DuckDB • Delta Lake • Docker • Streamlit • Medallion Architecture
 
 ⭐ **Repository:**  
-https://github.com/DeepBreath222/banking-data-platform
+https://github.com/VishalSoma2229/banking-data-platform
 
 ---
 
