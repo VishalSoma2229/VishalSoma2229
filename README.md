@@ -34,6 +34,18 @@ Building Scalable Data Pipelines • Big Data • Cloud • Banking Domain
 
 🎮 Outside work I enjoy **Gaming, Cinematography, Video Editing and Graphic Design.**
 
+
+# 💼 Open to Opportunities
+
+🚀 I'm currently open to **Data Engineer** opportunities.
+
+**Roles:** Azure Data Engineer • Data Engineer • ETL Developer
+
+📍 Preferred Location: Hyderabad, India (Open to Hybrid & Remote)
+
+📫 Reach me at: **vishalkumar8999@gmail.com**
+
+
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/somavishal)
