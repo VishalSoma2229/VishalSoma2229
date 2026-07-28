@@ -116,13 +116,10 @@ A production-inspired Banking Data Platform implementing **Medallion Architectur
 
 https://github.com/VishalSoma2229/banking-data-platform
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=VishalSoma2229&theme=blueberry&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=VishalSoma2229&theme=blueberry&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VishalSoma2229&layout=compact&langs_count=6&hide=html,css,jupyter%20notebook,dockerfile,makefile&theme=blueberry&hide_border=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VishalSoma2229&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=VishalSoma2229&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VishalSoma2229&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishalSoma2229&theme=default&no-frame=false&no-bg=true&margin-w=4)
