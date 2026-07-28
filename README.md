@@ -124,14 +124,16 @@ https://github.com/VishalSoma2229/banking-data-platform
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=VishalSoma2229&layout=compact&langs_count=6&hide=html,css,jupyter%20notebook,dockerfile,makefile&theme=blueberry&hide_border=true)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VishalSoma2229&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github-profile-trophy.vercel.app/?username=VishalSoma2229&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-# 📈 Contribution Graph
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VishalSoma2229&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VishalSoma2229&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+[![](https://komarev.com/ghpvc/?username=VishalSoma2229&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=VishalSoma2229&style=for-the-badge&color=blue)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
