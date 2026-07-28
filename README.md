@@ -125,7 +125,7 @@ https://github.com/VishalSoma2229/banking-data-platform
 ![](https://github-profile-trophy.vercel.app/?username=VishalSoma2229&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=VishalSoma2229&limit=5&theme=default&combine_all_yearly_contributions=true)
