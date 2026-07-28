@@ -1,22 +1,12 @@
 <h1 align="center">Hi 👋, I'm Soma Vishal</h1>
 
-
-
 <h3 align="center">
-
 Data Engineer | ETL Developer | PySpark Enthusiast | Azure Data Engineering
-
 </h3>
 
-
-
 <p align="center">
-
 Building Scalable Data Pipelines • Big Data • Cloud • Banking Domain
-
 </p>
-
-
 
 ---
 
