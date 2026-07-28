@@ -1,3 +1,25 @@
+<h1 align="center">Hi 👋, I'm Soma Vishal</h1>
+
+
+
+<h3 align="center">
+
+Data Engineer | ETL Developer | PySpark Enthusiast | Azure Data Engineering
+
+</h3>
+
+
+
+<p align="center">
+
+Building Scalable Data Pipelines • Big Data • Cloud • Banking Domain
+
+</p>
+
+
+
+---
+
 # 💫 About Me:
 🔭 Currently Working On: Building scalable ETL pipelines, mastering PySpark, and expanding my Azure Data Engineering expertise.<br><br>🌱 Currently Learning: Apache Spark Internals, Delta Lake, Databricks, Azure Data Factory, Synapse Analytics, Apache Airflow, Kafka, and advanced SQL optimization.<br><br>👯 Looking to Collaborate: Open-source Data Engineering projects, Spark applications, ETL frameworks, and cloud-native data platforms.<br><br>🤝 Looking for Help With: Distributed systems, Spark performance tuning, real-time data processing, and modern data architectures.<br><br>💼 Experience: Nearly 3 years of experience as a Data Engineer in the Banking & Financial Services domain, specializing in ETL development, SQL optimization, big data processing, and cloud-based data solutions.<br><br>🏦 Built scalable ETL pipelines for regulatory reporting, enterprise analytics, and data warehousing using Medallion Architecture (Bronze, Silver, Gold).<br><br>🛠️ Experienced with SQL, Python, Talend, Apache Spark, Hive, Hadoop, Azure Data Factory, Azure Data Lake, Synapse Analytics, Linux, Git, Docker, and CI/CD.<br><br>📊 Passionate about Data Engineering, Distributed Systems, Lakehouse Architecture, Cloud Computing, Data Warehousing, and Performance Optimization.<br><br>🎯 Goal: Become an expert Cloud Data Engineer building scalable, high-performance enterprise data platforms.<br><br>🎓 Bachelor's Degree in Electronics & Communication Engineering from MLR Institute of Technology.<br><br>🎨 Previously served as a Graphic Designer and Senior Member of the Literature Club, and Graphic Designer for the ECE Robotics Club.<br><br>🎮 Outside work I enjoy Gaming, Cinematography, Video Editing, and Graphic Design.
 
