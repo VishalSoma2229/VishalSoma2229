@@ -6,17 +6,6 @@ Data Engineer | ETL Developer | PySpark Enthusiast | Azure Data Engineering
 
 <p align="center">
   Building Scalable Data Pipelines • Big Data • Cloud • Banking Data Platforms
-</p>
-
-<p align="center">
-  <a href="https://github.com/VishalSoma2229">
-    <img src="https://img.shields.io/github/followers/VishalSoma2229?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/VishalSoma2229?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=VishalSoma2229&style=for-the-badge&color=1" />
-</p>
 
 ---
 
